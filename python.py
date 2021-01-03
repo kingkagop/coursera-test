@@ -1,0 +1,5 @@
+print("Hello world")
+name=input("Enter your name:" )
+Age=input("ENter your age")
+Date=input("Enter the date")
+print("I", name , "aged" ,Age  ,"declare that on this day," , Date  ,", I will justifuly rule this land with honour and grace without discriminating anyone. Thank you" )
